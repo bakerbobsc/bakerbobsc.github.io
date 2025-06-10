@@ -1,3 +1,7 @@
-
-New Local Branch Readme file
-
+- 👋 Hi, thanks for looking at my profile.  My name is Bob (a.k.a. @bakerbobsc).  I used to bake a lot in Santa Cruz.
+- 👀 I’m interested in a new job as a Quality Assurance Director, Manager, Lead or Engineer.
+- 🌱 I’m currently re-learning Python, and picking up Pandas, NumPy, Django, etc. Feel free to check out my LinkedIn page, https://www.linkedin.com/in/bob-porporato-7ab5107.
+- 💞️ I’m looking to collaborate on any fun, new projects.
+- 📫 You can reach me at bakerbobsantacruz@yahoo.com
+- 😄 Happy <dayoftheweek>
+- ⚡ Fun fact: I LOVE playing hoops.
